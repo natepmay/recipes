@@ -1,2 +1,2 @@
 # recipes
-Actual recipes.
+Food I like to make.
